@@ -1,9 +1,12 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<h1 align="center">Hi 👋, I'm Deepti Mohapatra</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-- 👋 Hi, I’m @freinddeepti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Deepti Mohapatra
+- 👀 I’m interested in Web developer
+- 🌱 I’m currently learning HTML,CSS,JAVA,PYTHON,C
+- ⚡ Fun fact **I am funny😊**
+-  🔭 I’m currently Studying in **MCA**
 - 📫 How to reach me ...
   
 
